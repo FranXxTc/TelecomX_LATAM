@@ -42,8 +42,3 @@ Identificar patrones de comportamiento que indiquen una mayor probabilidad de ca
 
 Este análisis sienta las bases para futuros modelos predictivos y estrategias enfocadas en la fidelización del cliente. Transformar datos en acciones concretas será clave para que Telecom X mejore su retención y satisfacción del usuario.
 
----
-
-**Autor:** *Tu Nombre – Asistente de Análisis de Datos*  
-**GitHub:** [@tuusuario](https://github.com/tuusuario)
-
